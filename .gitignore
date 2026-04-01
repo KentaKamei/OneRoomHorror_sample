@@ -1,0 +1,57 @@
+# Unreal Engine
+
+# Build / Generated
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+
+# Visual Studio / IDE
+.vs/
+*.VC.db
+*.VC.opendb
+*.sln
+*.opensdf
+*.sdf
+*.suo
+*.xcodeproj
+*.xcworkspace
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temp files
+*.tmp
+
+# Unreal Engine cache
+DerivedDataCache/
+
+# Ignore packaged builds
+*.apk
+*.ipa
+*.exe
+
+# Ignore backup files
+*_BuiltData.uasset
+
+# Ignore autosaves
+Saved/Autosaves/
+Saved/Backup/
+
+# Optional: Rider / VSCode
+.idea/
+.vscode/
+
+# Ignore debug symbols
+*.pdb
+
+# Unreal Engine user settings
+Saved/Config/WindowsEditor/
+
+# Crash reports
+Saved/Crashes/
